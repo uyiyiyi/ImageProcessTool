@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --upx-dir C:\UPX\upx.exe --exclude-module tkcalendar --exclude-module matplotlib C:\ImageProcess\ImageProcessTool.py
